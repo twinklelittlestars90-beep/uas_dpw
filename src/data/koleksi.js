@@ -1,0 +1,22 @@
+export const dataKartu = [
+  { id: 1, gambar: `/cards/card-01.jpg`, nama: "Mochi si Pemimpi", emoji: "🐰", rarity: "Common", tema: "Mimpi Manis", cerita: "Kelinci kecil yang selalu percaya pada mimpi besar." },
+  { id: 2, gambar: `/cards/card-02.jpg`, nama: "Piko Penjaga Wortel", emoji: "🥕", rarity: "Common", tema: "Kebun Ceria", cerita: "Penjaga kebun wortel paling rajin di desa." },
+  { id: 3, gambar: `/cards/card-03.jpg`, nama: "Luna si Pembaca", emoji: "📚", rarity: "Common", tema: "Perpustakaan", cerita: "Mengumpulkan cerita dan membagikan ilmu." },
+  { id: 4, gambar: `/cards/card-04.jpg`, nama: "Boba si Barista", emoji: "🧋", rarity: "Common", tema: "Kafe Awan", cerita: "Meracik minuman manis untuk teman-temannya." },
+  { id: 5, gambar: `/cards/card-05.jpg`, nama: "Clover Pembawa Hoki", emoji: "🍀", rarity: "Common", tema: "Padang Rumput", cerita: "Selalu menemukan keberuntungan di tempat tak terduga." },
+  { id: 6, gambar: `/cards/card-06.jpg`, nama: "Mimi si Pelukis", emoji: "🎨", rarity: "Uncommon", tema: "Galeri Pelangi", cerita: "Melukis dunia dengan warna-warna bahagia." },
+  { id: 7, gambar: `/cards/card-07.jpg`, nama: "Taro si Penjelajah", emoji: "🧭", rarity: "Uncommon", tema: "Hutan Rahasia", cerita: "Tidak takut menjelajahi jalan yang belum dikenal." },
+  { id: 8, gambar: `/cards/card-08.jpg`, nama: "Pudding si Koki", emoji: "🍮", rarity: "Uncommon", tema: "Dapur Mini", cerita: "Resep rahasianya selalu berhasil menghibur." },
+  { id: 9, gambar: `/cards/card-09.jpg`, nama: "Bintang Kecil", emoji: "⭐", rarity: "Uncommon", tema: "Langit Malam", cerita: "Menyimpan satu harapan untuk setiap bintang." },
+  { id: 10, gambar: `/cards/card-10.jpg`, nama: "Nori si Penyelam", emoji: "🐚", rarity: "Uncommon", tema: "Laut Pastel", cerita: "Mencari mutiara sambil menjaga lautan." },
+  { id: 11, gambar: `/cards/card-11.jpg`, nama: "Rosie Sang Peri", emoji: "🧚", rarity: "Rare", tema: "Taman Ajaib", cerita: "Menaburkan semangat di setiap sudut taman." },
+  { id: 12, gambar: `/cards/card-12.jpg`, nama: "Kumo si Awan", emoji: "☁️", rarity: "Rare", tema: "Negeri Awan", cerita: "Tidur di awan dan mengirim hujan pelangi." },
+  { id: 13, gambar: `/cards/card-13.jpg`, nama: "Frost si Salju", emoji: "❄️", rarity: "Rare", tema: "Istana Es", cerita: "Hatinya hangat meski tinggal di negeri salju." },
+  { id: 14, gambar: `/cards/card-14.jpg`, nama: "Sunny si Penjaga", emoji: "🌻", rarity: "Rare", tema: "Kebun Matahari", cerita: "Mengingatkan semua orang untuk tetap bersinar." },
+  { id: 15, gambar: `/cards/card-15.jpg`, nama: "Bubu si Astronaut", emoji: "🚀", rarity: "Rare", tema: "Galaksi", cerita: "Bermimpi menemukan planet penuh permen." },
+  { id: 16, gambar: `/cards/card-16.jpg`, nama: "Putri Sakura", emoji: "🌸", rarity: "Epic", tema: "Kerajaan Bunga", cerita: "Membawa musim semi ke mana pun ia pergi." },
+  { id: 17, gambar: `/cards/card-17.jpg`, nama: "Naga Permen", emoji: "🐉", rarity: "Epic", tema: "Gunung Manis", cerita: "Naga mungil yang menjaga harta berupa permen." },
+  { id: 18, gambar: `/cards/card-18.jpg`, nama: "Raja Moonlight", emoji: "🌙", rarity: "Epic", tema: "Kerajaan Bulan", cerita: "Mengawal mimpi indah setiap malam." },
+  { id: 19, gambar: `/cards/card-19.jpg`, nama: "Aurora si Bintang", emoji: "🌌", rarity: "Legendary", tema: "Aurora Utara", cerita: "Muncul hanya untuk mereka yang konsisten mengejar tujuan." },
+  { id: 20, gambar: `/cards/card-20.jpg`, nama: "Vivi si Kelinci Emas", emoji: "👑", rarity: "Legendary", tema: "Kastel Vivi", cerita: "Legenda koleksi: hadiah untuk penakluk 20 tantangan." }
+];
